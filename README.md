@@ -53,18 +53,13 @@ To learn more about developing your project with Expo, look at the following res
 
 ## Join the community
 
-Join our community of developers creating universal apps.
+Join a community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 ## Acknowledgements
 
-This starter project was created using [`npx create-expo-app@latest`](https://docs.expo.dev) and enhanced with additional features and configurations. Special thanks to:
+This starter project was created using [`npx create-expo-app@latest`](https://docs.expo.dev).
 
-- The [Expo](https://expo.dev) team for creating an amazing cross-platform development framework
-- [React Native](https://reactnative.dev) community for the powerful mobile development ecosystem
-- [expo-router](https://docs.expo.dev/router/introduction) for providing file-based routing capabilities
-- All contributors and maintainers of the open-source packages used in this project
-
-This template is designed to help developers quickly bootstrap their mobile applications with best practices and modern tooling.
+Special thanks to the [Expo](https://expo.dev) team for their cross-platform development framework and ecosystem.
